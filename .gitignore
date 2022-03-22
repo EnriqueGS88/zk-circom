@@ -10,3 +10,5 @@ type_analysis/target/
 .idea/
 .DS_Store
 Cargo.lock
+node_modules
+

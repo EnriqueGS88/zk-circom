@@ -9,6 +9,10 @@
 
 </div>
 
+# Intro
+
+This repo follows the exercises provided in [Circom Documentation](https://docs.circom.io/getting-started/writing-circuits/)
+
 # Quickstart
 
 <b>==> [Get started here](https://iden3.github.io/circom/getting-started/installation/)</b>
